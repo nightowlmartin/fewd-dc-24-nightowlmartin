@@ -1,9 +1,13 @@
 body {
-
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  padding: 50px;
+  background: #F6F6F6;
 }
 
 .commonstyles a {
-
+  color: #05080C;
 }
 
 .commonstyles small {
@@ -14,21 +18,32 @@ body {
 }
 
 .commonstyles h1 {
-
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #05080C;
 }
 
 .commonstyles h2 {
+  font-weight: bold;
+  color: #05080C;
 }
 
 .commonstyles h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #05080C;
   margin-top: 42px;
 }
 
 .commonstyles h4 {
+  font-weight: bold;
+  color: #05080C;
   margin-bottom: 0;
 }
 
 .commonstyles p {
+  font-family: Georgia, serif;
+  color: #05080C;
   margin-top: 0;
   margin-bottom: 27px;
 }
@@ -64,14 +79,15 @@ body {
 }
 
 .toc {
-
+  color: #222222;
+  text-align: left;
   max-width: 300px;
   float:right;
   margin: 0 0 20px 20px;
 }
 
 .toc .toclevel-1 {
-
+  font-size: 14px;
 }
 
 .toc .toclevel-1 > a {
@@ -79,7 +95,8 @@ body {
 }
 
 .toc .toclevel-2 {
-
+  font-size: 13px;
+  color: #3344aa;
 }
 
 .toc .toclevel-2 > a {
@@ -91,5 +108,7 @@ body {
 }
 
 .datatable td:first-child{
+  font-size: 12px;
   text-transform: uppercase;
+  font-weight: bold;
 }
