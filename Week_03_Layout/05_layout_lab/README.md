@@ -50,7 +50,7 @@ _Time: 20min_
 _Time: 120min_
 
 
-####[Satre's List]()
+####Satre's List]
 
 |Exercise | Satre's List |
 |:------------- |:-------------|
