@@ -2,7 +2,7 @@
 
 #FEWD - jQuery Intro
 
-###Instructor Name
+###Tor N. Johnson
 
 Instructors current role.
 
@@ -53,8 +53,16 @@ jQuery is a cross-browser JavaScript library designed to simplify the client-sid
 
 ##jQuery
 
-*	jquery.com - A JavaScript library that makes DOM manipulation simple.*	“Cross browser” - works the same in all* browsers. *	Allows:
-	*	Document traversal	*	CSS Manipulation	*	Event Handling	*	Animation	*	and more!
+*	jquery.com - A JavaScript library that makes DOM manipulation simple.
+
+*	“Cross browser” - works the same in all* browsers. 
+
+*	Allows:
+	*	Document traversal
+	*	CSS Manipulation
+	*	Event Handling
+	*	Animation
+	*	and more!
 
 ---
 
@@ -71,9 +79,9 @@ jQuery is a cross-browser JavaScript library designed to simplify the client-sid
 
 Adding jQuery to your website
 
-```<script src="js/jquery-1.8.3.min.js"></script>``` - Adding the file.
+```&lt;script src="js/jquery-1.8.3.min.js">&lt;/script>``` - Adding the file.
 
-```<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>``` - CDN
+```<&lt;script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">&lt;/script>``` - CDN
 
 ---
 
