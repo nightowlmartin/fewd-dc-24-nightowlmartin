@@ -128,7 +128,7 @@ The Dollar Sign
 
 Selectors are just like CSS
 
-	$(".class").click();
+	$(".class").on('click');
 
 Note: document.getElementById('thingy').onclick = doSomething;
 
@@ -138,7 +138,7 @@ Note: document.getElementById('thingy').onclick = doSomething;
 
 In jQuery, this might look more like:
 
-	$('selector').click(doSomething);
+	$('selector').on('click',doSomething);
 
 	function doSomething() {
 		// make something happen here
@@ -152,7 +152,7 @@ Note: We will certainly be discussing this in more detail, but in general jQuery
 
 ##jQuery Click Event
 
-###.click()
+###.on('click')
 
 ---
 
