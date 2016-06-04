@@ -1,0 +1,38 @@
+.priHeader {
+	background: #EEE;
+	/*padding: 30px;*/
+	margin-bottom: 20px;
+	height: 100px;
+}
+
+.mainCenter {
+	width: 34%;
+	float: left;
+	background: #EEE;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.leftAside {
+	width: 30%;
+	float: left;
+		background: #EEE;
+			height: 200px;
+
+
+}
+.rightAside {
+	width: 30%;
+	float: right;
+		background: #EEE;
+			height: 200px;
+
+
+}
+
+.priFooter {
+	clear: both;
+	background: green;
+		height: 200px;
+
+}

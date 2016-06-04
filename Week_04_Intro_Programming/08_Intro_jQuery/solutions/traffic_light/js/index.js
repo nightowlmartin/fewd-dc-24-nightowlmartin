@@ -4,12 +4,10 @@ jQuery("#stopButton").on("click",function(){
     jQuery(".bulb").css("background-color","black");
     jQuery("#stopLight").css("background-color","red");
 });
-
 jQuery("#slowButton").on("click",function(){
     jQuery(".bulb").css("background-color","black");
     jQuery("#slowLight").css("background-color","yellow");
 });
-
 jQuery("#goButton").on("click",function(){
     jQuery(".bulb").css("background-color","black");
     jQuery("#goLight").css("background-color","green");
